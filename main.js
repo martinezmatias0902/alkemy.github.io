@@ -75,13 +75,4 @@ document.addEventListener("DOMContentLoaded", async() => {
         header.appendChild(h3)
         section.appendChild(p)
     });
-
-
-
-   /*  itemsButton.addEventListener('click', () => {
-        
-        const div = document.getElementById('secondDiv');
-        let newDiv = div.cloneNode(true);
-        itemsSection.appendChild(newDiv); */
-    
 });
